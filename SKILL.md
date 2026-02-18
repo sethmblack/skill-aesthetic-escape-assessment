@@ -4,7 +4,8 @@ description: Evaluate how aesthetic experiences provide temporary liberation fro
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3348
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - aesthetic-escape-assessment
 - structure
